@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSaVN3oBvJv/cs63gkH3T551ip8+Qs0XzLgFRcTQH1zBXJ2Qy1R7kWJ2lem48JA+8zX4UA9cKIsVb6XzKJ8lSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyedulapuram\\source\\repos\\TestHttpClientSettings\\TestHttpClientSettings\\TestHttpClientSettings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\microsoft.diagnostics.tracing.traceevent\\3.1.6\\microsoft.diagnostics.tracing.traceevent.3.1.6.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\microsoft.win32.registry\\4.4.0\\microsoft.win32.registry.4.4.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\tyedulapuram\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
